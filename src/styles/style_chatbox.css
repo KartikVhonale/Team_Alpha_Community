@@ -1,0 +1,9 @@
+*{
+    padding:0;
+    margin: 0;
+}
+
+.chatbox_main_box{
+    background-color: black;
+    color: white;
+}
